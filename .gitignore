@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# SQLite generated database
+db/ecom.db
+
+# OS noise
+.DS_Store
+Thumbs.db
+
